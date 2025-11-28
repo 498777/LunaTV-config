@@ -435,9 +435,6 @@ console.log(`Request from: ${request.headers.get('cf-connecting-ip')}`)
 <!-- API_TABLE_END -->
 
 
-## ⭐ Star 星星走起
-[![Stargazers over time](https://starchart.cc/hafrey1/LunaTV-config.svg?variant=light)](https://starchart.cc/hafrey1/LunaTV-config)
-
 
 
 
