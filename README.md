@@ -336,7 +336,7 @@ console.log(`Request from: ${request.headers.get('cf-connecting-ip')}`)
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-12-08 23:24 CST）
+## API 状态（最近更新：2025-12-09 01:22 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：76
@@ -361,7 +361,7 @@ console.log(`Request from: ${request.headers.get('cf-connecting-ip')}`)
 | ✅ | 🎬最大资源 | [Link](https://zuida.xyz) | [Link](https://api.zuidapi.com/api.php/provide/vod) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | 🎬卧龙资源 | [Link](https://wolongzyw.com) | [Link](https://wolongzyw.com/api.php/provide/vod) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | 🎬天涯影视 | [Link](https://tyyszy.com) | [Link](https://tyyszy.com/api.php/provide/vod) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
-| ✅ | 🎬如意资源 | [Link](https://www.ryzyw.com) | [Link](https://cj.rycjapi.com/api.php/provide/vod) | ✅ | 1 | 0 | 100.0% | ------✅ |
+| ✅ | 🎬如意资源 | [Link](https://www.ryzyw.com) | [Link](https://cj.rycjapi.com/api.php/provide/vod) | ✅ | 2 | 0 | 100.0% | -----✅✅ |
 | ✅ | 🎬山海资源 | [Link](https://zy.sh0o.cn) | [Link](https://zy.sh0o.cn/api.php/provide/vod) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | 🎬快车资源 | [Link](https://kuaichezy.com) | [Link](https://caiji.kuaichezy.org/api.php/provide/vod) | ❌ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | 🎬新浪资源 | [Link](https://xinlangapi.com) | [Link](https://api.xinlangapi.com/xinlangapi.php/provide/vod) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
@@ -427,10 +427,10 @@ console.log(`Request from: ${request.headers.get('cf-connecting-ip')}`)
 | ✅ | 🔞黄色仓库 | [Link](https://hsckzy.xyz) | [Link](https://hsckzy.xyz/api.php/provide/vod) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | 🔞黑料资源 | [Link](https://heiliaozy.cc) | [Link](https://www.heiliaozyapi.com/api.php/provide/vod) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | 🎬U酷影视 | [Link](https://www.ukuzy.com) | [Link](https://api.ukuapi88.com/api.php/provide/vod) | ✅ | 29 | 1 | 96.7% | ✅✅✅✅✅✅✅ |
-| 🚨 | 🔞-色南国- | [Link](https://api.sexnguon.com) | [Link](https://api.sexnguon.com/api.php/provide/vod) | ❌ | 26 | 4 | 86.7% | ✅✅✅❌❌❌❌ |
-| ✅ | 🎬卧龙影视 | [Link](https://wolongzyw.com) | [Link](https://collect.wolongzy.cc/api.php/provide/vod) | ✅ | 6 | 24 | 20.0% | ❌✅✅✅✅✅✅ |
-| ❌ | 🎬百度云zy | [Link](https://bdzy1.com) | [Link](https://api.apibdzy.com/api.php/provide/vod) | ❌ | 0 | 1 | 0.0% | ------❌ |
-| ❌ | 🎬豪华资源 | [Link](https://www.haohuazy.com) | [Link](https://hhzyapi.com/api.php/provide/vod) | ❌ | 0 | 1 | 0.0% | ------❌ |
+| 🚨 | 🔞-色南国- | [Link](https://api.sexnguon.com) | [Link](https://api.sexnguon.com/api.php/provide/vod) | ❌ | 25 | 5 | 83.3% | ✅✅❌❌❌❌❌ |
+| ✅ | 🎬卧龙影视 | [Link](https://wolongzyw.com) | [Link](https://collect.wolongzy.cc/api.php/provide/vod) | ✅ | 7 | 23 | 23.3% | ✅✅✅✅✅✅✅ |
+| ❌ | 🎬百度云zy | [Link](https://bdzy1.com) | [Link](https://api.apibdzy.com/api.php/provide/vod) | ❌ | 0 | 2 | 0.0% | -----❌❌ |
+| ❌ | 🎬豪华资源 | [Link](https://www.haohuazy.com) | [Link](https://hhzyapi.com/api.php/provide/vod) | ❌ | 0 | 2 | 0.0% | -----❌❌ |
 | 🚨 | 🔞最色资源 | [Link](https://api.zuiseapi.com) | [Link](https://api.zuiseapi.com/api.php/provide/vod) | ❌ | 0 | 30 | 0.0% | ❌❌❌❌❌❌❌ |
 <!-- API_TABLE_END -->
 
